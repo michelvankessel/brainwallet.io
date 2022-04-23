@@ -1,2 +1,2 @@
-# brainwallet.io
-Deterministic Bitcoin and Litecoin Address Generator
+# BlackBrain Wallet
+Deterministic Blackcoin and Blackcoin Testnet Address Generator
